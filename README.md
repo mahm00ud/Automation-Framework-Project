@@ -17,9 +17,3 @@ You can run all UI test cases from testng.xml.
 1- for each page and its elements and all its related actions, you can find the class for each page in src/main/java/pages.
 2- the test case class is located in src/test/java/uiTests.
 3- for reading the data from excel file, a class DataReader is made in src/main/java/utils.
-*************************************************************
-
-**For APIs cucmber restassured framework.**
-
-
-You can run the TestRunner class to run the Apis automation scripts which validate that the numViews for all patterns are greater than 4000.
